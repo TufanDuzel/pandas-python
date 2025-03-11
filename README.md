@@ -1,4 +1,3 @@
-```md
 # Pandas and NumPy Exploration
 
 This repository contains a Jupyter Notebook demonstrating the usage of **Pandas** and **NumPy** for data analysis and manipulation in Python.
